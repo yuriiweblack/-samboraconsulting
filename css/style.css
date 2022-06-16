@@ -171,6 +171,7 @@ body{
     padding-left: 38px;
     position: relative;
     font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
 }
 
 .header__content-item-li::before{
@@ -1114,7 +1115,7 @@ ul.footer__social{
  /* margin-bottom: 50px; */
 }
     .about {
-        padding-top: 86px;
+        padding-top: 72px;
         padding-bottom: 10px;
       }
 
